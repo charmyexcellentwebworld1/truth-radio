@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OTP Verification for Sign Up</title>
+  <link rel="icon" type="image/x-icon" href="assest/image/favicon.ico">
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+</head>
+<body>
+<header id="myHeader" class="header">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-wrap d-flex">
+                <a class="navbar-brand p-0" href="#"><img src="assest/image/Logo.png" alt="" /></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Plans & Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Our App</a>
+                    </li>
+                    <li class="nav-item signin-btn">
+                        <a class="nav-link " href="#">Sign In</a>
+                    </li>
+                    <li class="nav-item signup-btn">
+                        <a class="nav-link" href="#">Sign Up</a>
+                    </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="d-flex header-btn">
+                <button class="btn">Sign In</button>
+                <button class="btn border-btn">Sign Up</button>
+            </div>
+        </div>
+      </nav>
+</header>
+<main>
+    <section class="signup-sec verify">
+        <div class="container">
+            <div class="row d-flex">
+                <div class="col">
+                    <div class="box">
+                        <h2>OTP Verification</h2>
+                        <p>Enter the OTP received in your registered Mobile number.</p>
+                       <form id="otp-form">
+                        <div class="d-flex">
+                            <input type="text"  pattern="\d*" maxlength="1" placeholder="-" class="myInput" />
+                            <input type="text"  maxlength="1" placeholder="-" class="myInput" />
+                            <input type="text"  maxlength="1" placeholder="-" class="myInput" />
+                            <input type="text"  maxlength="1" placeholder="-" class="myInput" />
+                            <input type="text"  maxlength="1" placeholder="-" class="myInput" />
+                            <input type="text"  maxlength="1" placeholder="-" class="myInput" />
+                        </div>
+                        <button type="submit" class="btn">Verify</button>
+                    </form>
+                    <div class="resend-link">Didn't receive a code?<a href="#0">Resend</a></div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="right-img">
+                        <img src="assest/image/signup-img2.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+   
+</main>
+<script type="text/javascript" src="js/jquery-3.7.1.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', () => {
+  const form = document.getElementById('otp-form')
+  const inputs = [...form.querySelectorAll('input[type=text]')]
+  const submit = form.querySelector('button[type=submit]')
+
+  const handleKeyDown = (e) => {
+      if (
+          !/^[0-9]{1}$/.test(e.key)
+          && e.key !== 'Backspace'
+          && e.key !== 'Delete'
+          && e.key !== 'Tab'
+          && !e.metaKey
+      ) {
+          e.preventDefault()
+      }
+
+      if (e.key === 'Delete' || e.key === 'Backspace') {
+          const index = inputs.indexOf(e.target);
+          if (index > 0) {
+              inputs[index - 1].value = '';
+              inputs[index - 1].focus();
+          }
+      }
+  }
+
+  const handleInput = (e) => {
+      const { target } = e
+      const index = inputs.indexOf(target)
+      if (target.value) {
+          if (index < inputs.length - 1) {
+              inputs[index + 1].focus()
+          } else {
+              submit.focus()
+          }
+      }
+  }
+
+  const handleFocus = (e) => {
+      e.target.select()
+  }
+
+  const handlePaste = (e) => {
+      e.preventDefault()
+      const text = e.clipboardData.getData('text')
+      if (!new RegExp(`^[0-9]{${inputs.length}}$`).test(text)) {
+          return
+      }
+      const digits = text.split('')
+      inputs.forEach((input, index) => input.value = digits[index])
+      submit.focus()
+  }
+
+  inputs.forEach((input) => {
+      input.addEventListener('input', handleInput)
+      input.addEventListener('keydown', handleKeyDown)
+      input.addEventListener('focus', handleFocus)
+      input.addEventListener('paste', handlePaste)
+  })
+})  
+
+/////////////////////
+
+// Get all input elements with class "dynamic-input"
+var inputs = document.getElementsByClassName('myInput');
+
+// Loop through each input element
+Array.prototype.forEach.call(inputs, function(input) {
+  // Add event listener for input event
+  input.addEventListener('input', function() {
+    // Check if the input value is not empty
+    if (input.value.trim() !== '') {
+      input.style.borderBottomColor = '#BFBFBF'; // Change border color to green
+    } else {
+      input.style.borderBottomColor = 'rgb(191 191 191 / 40%)'; // Change border color to red
+    }
+  });
+});
+
+
+</script>
+</body>
+</html>

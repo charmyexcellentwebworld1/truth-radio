@@ -1,0 +1,6 @@
+<svg id="slider-horizontal" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <path id="Vector" d="M20,8.333V25a19.917,19.917,0,0,1-.15,2.767c-.483,4.383-2.55,5.567-8.183,5.567H8.333C2.7,33.333.633,32.15.15,27.767A19.917,19.917,0,0,1,0,25V8.333A19.917,19.917,0,0,1,.15,5.567C.633,1.183,2.7,0,8.333,0h3.333c5.633,0,7.7,1.183,8.183,5.567A19.917,19.917,0,0,1,20,8.333Z" transform="translate(10 3.333)" fill="none" stroke="#b51613" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Vector-2" data-name="Vector" d="M6.667,19.45a19.917,19.917,0,0,0,.15,2.767c-.233.017-.45.017-.7.017H5.55C1.117,22.233,0,21.117,0,16.667V5.567C0,1.117,1.117,0,5.55,0h.567c.25,0,.467,0,.7.017a19.917,19.917,0,0,0-.15,2.767Z" transform="translate(3.333 8.883)" fill="none" stroke="#b51613" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Vector-3" data-name="Vector" d="M6.817,5.567v11.1c0,4.45-1.117,5.567-5.55,5.567H.7c-.25,0-.467,0-.7-.017A19.917,19.917,0,0,0,.15,19.45V2.783A19.917,19.917,0,0,0,0,.017C.233,0,.45,0,.7,0h.567C5.7,0,6.817,1.117,6.817,5.567Z" transform="translate(29.85 8.883)" fill="none" stroke="#b51613" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Vector-4" data-name="Vector" d="M0,0H40V40H0Z" fill="none" opacity="0"/>
+</svg>

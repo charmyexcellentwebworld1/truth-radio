@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="471" height="286" viewBox="0 0 471 286">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.87" y1="-1.358" x2="1.361" y2="1.174" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.515" stop-color="#db3128"/>
+      <stop offset="1" stop-color="#383838"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="3.328" y1="-2.741" x2="-3.495" y2="6.079" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ecc647"/>
+      <stop offset="1" stop-color="#dc8503"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_61405" data-name="Group 61405" transform="translate(-23.5 -385.83)">
+    <rect id="Rectangle_806" data-name="Rectangle 806" width="470" height="285" rx="24" transform="translate(24 386.33)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_807" data-name="Rectangle 807" d="M0,0H78a22,22,0,0,1,22,22V255.014a22,22,0,0,1-22,22H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(389.999 390.33)" fill="#fff"/>
+    <text id="xxxx_xxxx_xx20_2288" data-name="xxxx xxxx xx20 2288" transform="translate(56 516.33)" fill="rgba(194,194,194,0.77)" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">xxxx xxxx xx</tspan><tspan y="0" fill="#fff">20 2288</tspan></text>
+    <text id="Greg_Will" data-name="Greg Will" transform="translate(56 627.33)" fill="#fff" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">Greg Will</tspan></text>
+    <text id="_11_26" data-name="11/26" transform="translate(308 627.33)" fill="#fff" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">11/26</tspan></text>
+    <g id="Group_60509" data-name="Group 60509" transform="translate(56 436.33)">
+      <path id="Path_204885" data-name="Path 204885" d="M12.194,13.107H0V18.46c0,.074.01.145.011.218H14.677a6.844,6.844,0,0,1-2.483-5.57Z" transform="translate(0 9.89)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204886" data-name="Path 204886" d="M12.2,10.328c0-.08-.022-.158-.023-.237a6.888,6.888,0,0,1,2.015-4.972c.134-.135.291-.237.433-.36H.1a9.529,9.529,0,0,0-.1,1.3v4.269H12.2Z" transform="translate(0 3.591)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204887" data-name="Path 204887" d="M47.4,6.595A9.791,9.791,0,0,0,38.1,0H11.612V6.595Z" transform="translate(9.09)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204888" data-name="Path 204888" d="M9.337,6.343a5.16,5.16,0,0,0-1.509,3.726,5.218,5.218,0,0,0,1.1,3.128,2.77,2.77,0,0,1,.015,3.324,5.119,5.119,0,0,0,.9,7.266,5.313,5.313,0,0,0,7.36-.9,5.1,5.1,0,0,0,0-6.34,2.766,2.766,0,0,1-.017-3.327,8.77,8.77,0,0,0,1.39-2.887l.007,0v0H50.873V6.059a9.532,9.532,0,0,0-.1-1.3H13.082A5.329,5.329,0,0,0,9.337,6.343Z" transform="translate(6.127 3.591)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204889" data-name="Path 204889" d="M15.787,13.107a6.825,6.825,0,0,1-1.459,4.551,6.915,6.915,0,0,1-1.02,1.019H46.572c0-.073.011-.144.011-.218V13.107h-30.8Z" transform="translate(10.417 9.89)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204890" data-name="Path 204890" d="M11.612,17.282V24.96H38.1a9.771,9.771,0,0,0,9.6-7.678Z" transform="translate(9.09 13.04)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204891" data-name="Path 204891" d="M12.513,14.5a6.807,6.807,0,0,1,1.138-2.187,1.029,1.029,0,0,0-.017-1.217,6.883,6.883,0,0,1-1.122-2.166H0V14.5Z" transform="translate(0 6.74)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204892" data-name="Path 204892" d="M18.829,17.282H.116a9.771,9.771,0,0,0,9.6,7.678h9.114Z" transform="translate(0.091 13.04)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204893" data-name="Path 204893" d="M18.7,6.595V0H9.582a9.791,9.791,0,0,0-9.3,6.595Z" transform="translate(0.224)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_204894" data-name="Path 204894" d="M15.164,8.933a10.472,10.472,0,0,1-1.18,2.161,1.037,1.037,0,0,0,0,1.244A6.78,6.78,0,0,1,15.118,14.5h31.1V8.933H15.164Z" transform="translate(10.782 6.74)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="layer1" transform="translate(408.001 599.33)">
+      <g id="g13" transform="translate(0 0)">
+        <g id="XMLID_328_">
+          <rect id="rect19" width="17.575" height="31.445" transform="translate(23.712 4.278)" fill="#ff5f00"/>
+          <path id="XMLID_330_" d="M2923.562,2259.5a20.022,20.022,0,0,1,7.644-15.722,20,20,0,1,0,0,31.445A19.941,19.941,0,0,1,2923.562,2259.5Z" transform="translate(-2898.735 -2239.502)" fill="#eb001b"/>
+          <path id="path22" d="M3431.639,2259.5a20.083,20.083,0,0,1-32.472,15.723,19.992,19.992,0,0,0,0-31.445,20.082,20.082,0,0,1,32.472,15.722Z" transform="translate(-3366.639 -2239.502)" fill="#f79e1b"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="40" viewBox="0 0 100 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.217" x2="0.5" y2="1.03" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#141414" stop-opacity="0"/>
+      <stop offset="0.189" stop-color="#1a1a1a" stop-opacity="0"/>
+      <stop offset="0.356" stop-color="#191919" stop-opacity="0.251"/>
+      <stop offset="0.515" stop-color="#181818" stop-opacity="0.502"/>
+      <stop offset="0.749" stop-color="#161616" stop-opacity="0.702"/>
+      <stop offset="1" stop-color="#141414"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_61261" data-name="Group 61261" transform="translate(-1147 -3289)">
+    <g id="Group_61155" data-name="Group 61155" transform="translate(1147 3289)">
+      <rect id="Rectangle_703" data-name="Rectangle 703" width="100" height="40" rx="20" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_61154" data-name="Group 61154" transform="translate(1173.995 3297.997)">
+      <g id="Group_60433" data-name="Group 60433" transform="translate(-2 4.999)">
+        <circle id="Ellipse_78" data-name="Ellipse 78" cx="6" cy="6" r="6" transform="translate(0.005 0.004)" fill="#fff"/>
+        <circle id="Ellipse_79" data-name="Ellipse 79" cx="4" cy="4" r="4" transform="translate(2.005 2.004)" fill="#b51613"/>
+      </g>
+      <text id="Live" transform="translate(18.004 17.003)" fill="#fff" font-size="17" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">Live</tspan></text>
+    </g>
+  </g>
+</svg>

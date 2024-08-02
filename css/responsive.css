@@ -1,0 +1,1746 @@
+@media only screen and (max-width: 1700px) {
+    #scroll-down {
+        margin-left: 0px;
+    }
+}
+@media only screen and (max-width: 1660px) {
+    header a.navbar-brand {
+        margin-right: 15%;
+    }
+    .header-btn {
+        width: 20%;
+    }
+    .banner-sec .col:nth-child(1) {
+        padding-left: 70px;
+    }
+    header a.nav-link {
+        padding: 24px 40px 0px 12px !important;
+    }
+    header .navbar-wrap {
+        max-width: calc(100% - 349px);
+    }
+    h1 {
+        font: normal normal 900 50px / 60px Obadiah;
+    }
+    .banner-sec .btn {
+        max-width: 400px;
+        gap: 20px;
+        margin: 35px -50px 0px auto;
+    }
+    .banner-sec .btn:after {
+        width: 100px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(2) {
+        margin-top: 239px;
+        margin-left: -64px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(3) {
+        margin-top: 479px;
+        margin-left: -62px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(4) {
+        top: 763px;
+        left: -138px;
+    }
+    .connect-sec .col .wh-bg p {
+        max-width: 100%;
+    }
+    .connect-sec .col .wh-bg {
+        padding: 70px;
+    }
+    .banner-sec p {
+        margin-bottom: 100px;
+    }
+    .marquee{
+        height: 800px;
+    }
+    .signup-sec .row:before,
+    .signin-sec .row:before {
+        left: calc(100% - 349px);
+        height: 250px;
+    }
+    .verify .row:before{
+        left: calc(100% - 362px);
+    }
+    .plan-list {
+        padding: 85px 50px 85px 74px;
+    }
+    .purchase-summery .row:before,.plan-sec .row:before,
+    .payment-screen .row:before,
+    .admin-page main .profile-sec .row:before,
+    .edit-profile .row:before,.subscription-sec .row:nth-child(1):before,
+    .donation-history .row:before{
+        left: calc(100% - 362px);
+    }
+    .purchase-summery .plan-box {
+        left: -50px;
+        padding: 47px 80px 46px 50px;
+    }
+    .purchase-summery .plan-box :is(p,h2) {
+        max-width: 100%;
+    }
+    .card-section .btn {
+        max-width: 300px;
+    }
+    .card-section .add-new p {
+        right: 50%;
+    }
+    .payment-screen .card-section {
+        right: 0px;
+    }
+    .payment-screen form .btn-group {
+        gap: 50px;
+    }
+    .donation-sec p {
+        max-width: 80%;
+    }
+    .range-sec .slidecontainer {
+        margin: 0px auto 50px auto;
+    }
+    .range-sec .slidecontainer p {
+        margin-bottom: 40px;
+    }
+    .range-sec .slider {
+        margin-bottom: 65px;
+    }
+    .imp-note {
+        margin-bottom: 40px;
+    }
+    .profile-row ul li {
+        padding: 0px 40px 0px 0px;
+        margin: 0px 0px 0px 32px;
+    }
+    .admin-page main::before {
+        top: 27%;
+    }
+    .plan-history table {
+        max-width: 800px;
+    }
+    .subscription-sec .card-row {
+        margin-right: -50px;
+    }
+    
+    
+  }
+  @media only screen and (max-width: 1462px) {
+    .step-sec .accordion {
+        margin: -280px 0px 0px auto;
+    }
+    .connect-sec .col .wh-bg {
+        padding: 60px;
+        border-radius: 60px;
+    }
+    .banner-sec p {
+        margin-bottom: 70px;
+    }
+    .profile .btn img {
+        margin-right: 15px;
+    }
+    .purchase-summery .plan-left {
+        padding-right: 50px;
+    }
+    .purchase-summery h1 br{
+        display: none;
+    }
+    .purchase-summery h1 ,.purchase-summery .plan-box{
+        margin-bottom: 50px;
+    }
+    .payment-screen form .input-group:nth-child(4),
+    .edit-profile form .input-group:nth-child(4){
+        margin-bottom: 60px;
+    }
+    .plan-list {
+        max-width: 500px;
+        margin: 155px 0px 0px auto;
+    }
+    .money-send a {
+        max-width: 200px !important;
+        margin-right: 0px;
+    }
+    a.forgot-link {
+        margin-bottom: 50px;
+    }
+    .donation-sec .plan-left p {
+        margin-bottom: 50px;
+    }
+    .range-sec .slidecontainer {
+        width: calc(100% - 100px);
+    }
+    .donation-sec p {
+        max-width: 100%;
+    }
+    .profile-wrap {
+        gap: 0px 60px;
+    }
+    .profile-sec .profile-row {
+        padding: 16px 0px 16px 60px;
+    }
+    .profile-row ul li {
+        padding: 0px 30px 0px 0px;
+        margin: 0px 0px 0px 22px;
+    }
+    .edit-profile .profile-left h1 {
+        margin-bottom: 50px;
+    }
+    .subscription-sec .current-plan a.btn{
+        min-width: 230px;
+    }
+    .subscription-sec {
+        padding: 290px 0px 120px 0px;
+    }
+    .plan-history {
+        padding-bottom: 120px;
+    }
+    table tbody tr td {
+        padding: 19px 30px !important;
+    }
+    table thead tr th{
+        padding: 28px 30px !important;
+    }
+    .donation-history table tbody tr td {
+        padding: 19px 30px !important;
+    }
+    .plan-history table {
+        max-width: 750px;
+    }
+    .donation-history .table-wrapper .title{
+        max-width: 35%;
+    }
+  }
+  @media only screen and (max-width: 1300px) {
+    .banner-sec .col:nth-child(1) {
+        padding-left: 0px;
+    }
+    .banner-sec .row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .banner-sec .row .col{
+        padding: 0px 0px;
+    }
+    .step-sec .accordion-item {
+        margin-bottom: 40px !important;
+        padding: 20px 0px 20px 30px;
+        min-height: 110px;
+    }
+    .step-sec .accordion-item:last-child {
+        max-width: 700px;
+        margin: 0px 0px 0px auto;
+    }
+    .step-sec .accordion-item:nth-child(3) {
+        max-width: calc(700px - 70px);
+    }
+    .step-sec .accordion-item:nth-child(2) {
+        max-width: calc(700px - 140px);
+    }
+    .step-sec .accordion-item:nth-child(1) {
+        max-width: calc(700px - 210px);
+    }
+    .step-sec .accordion-item button img {
+        margin: 0px 15px;
+    }
+    .connect-sec .col .wh-bg {
+        padding: 60px 40px;
+        margin-bottom: 50px;
+    }
+    .connect-sec .wh-bg h3{
+        line-height: 49px;
+    }
+    .connect-sec .col h4 {
+        max-width: 100%;
+    }
+    .banner-sec .banner-right img {
+        width: 300px;
+        height: auto;
+    }
+    .banner-sec .banner-right .img:nth-child(2) {
+        left: 20px;
+    }
+    footer .col:nth-child(1) .footer-column ul li{
+        max-width: 82%;
+    }
+    .footer-column ul li br{
+        display: none;
+    }
+    .marquee {
+        height: 680px;
+    }
+    .hero-marquee .img{
+        height: 400px;
+    }
+    .plan-sec p {
+        max-width: 100%;
+        margin-bottom: 70px;
+    }
+    .plan-list {
+        margin-top: 140px;
+        padding: 50px 0px 50px 74px;
+        max-width: 90%;
+    }
+    .purchase-summery .row .col:nth-child(2) {
+        width: 50%;
+    }
+    .purchase-card p {
+        margin-bottom: 20px;
+    }
+    .purchase-card h2 {
+        padding-bottom: 20px;
+        margin-bottom: 35px;
+    }
+    .purchase-card {
+        margin: 0px 0px 40px auto;
+    }
+    .purchase-summery {
+        padding: 240px 0px 120px 0px;
+    }
+    .payment-screen form,.edit-profile form {
+        padding: 60px 38px;
+    }
+    .signup-sec form label, .payment-screen form label,
+    .signin-sec form label, .edit-profile form label{
+        font-size: 18px;
+        min-width: 160px;
+    }
+    .connect-sec form input, .payment-screen form input,.edit-profile form input{
+        font-size: 20px;
+    }
+    .purchase-summery .row:before, .plan-sec .row:before{
+        top: -240px;
+    }
+    .payment-screen .row:before,.edit-profile .row:before {
+        top: -292px;
+    }
+    .plan-sec {
+        padding: 240px 0px 120px 0px;
+    }
+    .card-section .card-row:before {
+        left: -43%;
+        height: 40%;
+    }
+    .card-section .card-row {
+        margin: 80px 0px 80px 0px;
+    }
+    .existing-user h1 {
+        margin-bottom: 100px;
+    }
+    .range-sec {
+        padding: 50px 0px;
+    }
+    .range-sec .slidecontainer {
+        margin: 0px auto 40px auto;
+    }
+    .profile-row ul li a {
+        gap: 10px;
+    }
+    .profile-row ul li {
+        padding: 0px 20px 0px 0px;
+        margin: 0px 0px 0px 12px;
+    }
+    .donation-history table {
+        max-width: 595px;
+    }
+    .donation-history .table-wrapper .title {
+        max-width: 40%;
+    }
+    .verify .box form .d-flex {
+        gap: 20px;
+        margin-bottom: 50px;
+    }
+    .verify .box form input[type="text"] {
+        width: 40px;
+        padding-bottom: 25px;
+    }
+    .verify .box p {
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+    .signup-sec.verify .box {
+        padding: 50px 50px;
+    }
+    .verify .box h2 {
+        margin-bottom: 15px;
+    }
+  }
+  @media only screen and (max-width: 1199px) {
+    header a.navbar-brand {
+        margin-right: 8%;
+    }
+    header a.nav-link {
+        padding: 24px 20px 0px 12px !important;
+        font-size: 16px;
+    }
+    .mobile-sec .mobile-screen .img {
+        width: 300px;
+        height: 300px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(2) {
+        margin-top: 165px;
+        margin-left: -35px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(3) {
+        margin-top: 330px;
+        margin-left: -35px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(4) {
+        margin-top: 485px;
+        margin-left: -35px;
+    }
+    .mobile-sec .mobile-screen {
+        padding: 100px 0px;
+    }
+    .step-sec .col h2 {
+        max-width: 72%;
+    }
+    .connect-sec form {
+        border-radius: 50px;
+        padding: 40px 40px;
+    }
+    .connect-sec .col {
+        max-width: 490px;
+    }
+    .connect-sec .col:nth-child(2) {
+        max-width: calc(100% - 550px);
+    }
+    .footer-column ul li a, .footer-column ul li {
+        line-height: 26px;
+    }
+    .hero-marquee .img {
+        height: 400px;
+    }
+    .hero-marquee .img:nth-child(2){
+        top: 28%;
+    }
+    .hero-marquee .img:nth-child(3){
+        top: 56%;
+    }
+    .hero-marquee .img:nth-child(4){
+        top: 84%;
+    }
+    .signup-sec form .input-group:nth-child(3) {
+        margin-bottom: 60px;
+    }
+    header .navbar-wrap {
+        max-width: calc(100% - 280px);
+    }
+    .purchase-summery .row:before,.plan-sec .row:before,
+    .payment-screen .row:before,.admin-page main .profile-sec .row:before,
+    .edit-profile .row:before,.subscription-sec .row:nth-child(1):before,
+    .donation-history .row:before{
+        left: calc(100% - 292px);
+    }
+    .banner-sec .btn {
+        max-width: 331px;
+    }
+    .signup-sec .row:before,
+    .signin-sec .row:before {
+        left: calc(100% - 281px);
+        height: 101px;
+        top: -200px;
+    }
+    .verify .row:before{
+        left: calc(100% - 293px);
+        height: 101px;
+        top: -200px;
+    }
+    .signup-sec{
+        padding: 200px 0px 0px 0px;
+    }
+    .payment-screen,.donation-sec,.edit-profile{
+        padding: 200px 0px 120px 0px;
+    }
+    .payment-screen .row:before,.admin-page main .profile-sec .row:before,
+    .edit-profile .row:before,.subscription-sec .row:nth-child(1):before,
+    .donation-history .row:before{
+        top: -201px;
+    }
+    .signup-sec form .input-group, .payment-screen form .input-group,
+    .signin-sec form .input-group, .edit-profile form .input-group{
+        margin: 0px 0px 25px 0px;
+    }
+    .payment-screen form .input-group:nth-child(4),
+    .edit-profile form .input-group:nth-child(4){
+        margin-bottom: 40px;
+    }
+    .payment-screen .terms-des {
+        margin: 40px 0px 0px 0px;
+    }
+    .master-card, .visa-card {
+        min-width: 393px;
+        height: 250px;
+    }
+    .payment-screen form .btn-group {
+        gap: 20px;
+    }
+    .payment-screen form a.card-btn {
+        min-width: 150px;
+        margin-left: -38px;
+        padding: 0px 20px;
+    }
+    .signin-sec form p.text-center {
+        margin: 30px 0px 30px 0px;
+    }
+    a.forgot-link {
+        margin-bottom: 30px;
+    }
+    .donation-sec .row .col:nth-child(2) {
+        width: 50%;
+    }
+    .profile-sec {
+        padding: 200px 0px 120px 0px;
+    }
+    .profile-img {
+        min-width: 266px;
+        height: 335px;
+    }
+    .profile-box .img {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 25px;
+    }
+    .profile-sec .profile-row {
+        width: calc(100% + 51px - 266px);
+        padding: 16px 0px 16px 40px;
+        margin: -131px -50px 0px auto;
+    }
+    .profile-wrap {
+        gap: 0px 40px;
+    }
+    .profile-row ul li a img {
+        width: 17px;
+        height: 17px;
+    }
+    .admin-page main::before {
+        top: 0%;
+    }
+    .subscription-sec {
+        padding: 200px 0px 120px 0px;
+    }
+    .subscription-sec .plan-left {
+        margin-bottom: 80px;
+    }
+    .subscription-sec h5 {
+        margin-bottom: 30px;
+    }
+    .subscription-sec .current-plan a.btn{
+        margin: 0px 0px 20px 0px;
+    }
+    .subscription-sec .current-plan p {
+        margin-bottom: 30px;
+    }
+    .subscription-sec .current-plan {
+        padding: 50px 30px 40px 0px;
+    }
+    .subscription-sec .current-plan a.btn {
+        min-width: auto;
+    }
+    .plan-history table {
+        max-width: 400px;
+    }
+    table thead tr th {
+        padding: 20px 20px !important;
+    }
+    .donation-history table tbody tr td{
+        padding: 18px 20px !important;
+    }
+    table tbody tr td {
+        padding: 19px 20px !important;
+    }
+    table {
+        border-radius: 30px;
+    }
+    table thead {
+        border-radius: 30px 30px 0px 0px;
+    }
+    .subscription-sec, .donation-history {
+        padding: 180px 0px 121px 0px;
+    }
+    .signin-sec {
+        padding: 200px 0px 0px 0px;
+    }
+    
+  }
+  @media only screen and (max-width: 1024px) {
+    .header-btn {
+        width: 25%;
+    }
+    .banner-sec .banner-right .img:nth-child(1),.banner-sec .banner-right .img:nth-child(3) {
+        left: 10px;
+    }
+    .banner-sec .banner-right .img:nth-child(2) {
+        left: 0px;
+    }
+    header a.nav-link {
+        padding: 24px 15px 0px 12px !important;
+        font-size: 15px;
+    }
+    .step-sec .accordion {
+        margin: -315px 0px 0px auto;
+    }
+    .step-sec .accordion-item:last-child {
+        max-width: 600px;
+    }
+    .step-sec .accordion-item:nth-child(3) {
+        max-width: calc(600px - 50px);
+    }
+    .step-sec .accordion-item:nth-child(2) {
+        max-width: calc(600px - 100px);
+    }
+    .step-sec .accordion-item:nth-child(1) {
+        max-width: calc(600px - 150px);
+    }
+    .step-sec .accordion-item button img {
+        margin: 3px 15px;
+        height: 30px;
+    }
+    .plan-list {
+        margin-top: 120px;
+        padding: 65px 30px 65px 70px;
+    }
+    .purchase-card h2 {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .purchase-card p span {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .purchase-card .total h5 span {
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .purchase-card .total h5{
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .purchase-summery .plan-box {
+        padding: 30px 50px 30px 50px;
+    }
+    .signup-sec form label, .payment-screen form label,
+    .signin-sec form label,.edit-profile form label{
+        font-size: 16px;
+        min-width: 134px;
+    }
+    .connect-sec form input, .payment-screen form input,.edit-profile form input {
+        font-size: 18px;
+    }
+    .plan-sec h1 span.br-txt:after, .purchase-summery h1 span.br-txt:after, .payment-screen h1 span.br-txt:after,
+    .edit-profile h1 span.br-txt:after{
+        bottom: 0px;
+    }
+    .card-section .card-row:before,.admin-page main .profile-sec .row:before,
+    .subscription-sec .row:nth-child(1):before{
+        display: none;
+    }
+    .card-section .money-send {
+        margin: unset;
+        max-width: 200px;
+    }
+    .card-section .add-new p{
+        position: unset;
+    }
+    .payment-screen .card-section{
+        padding: 0px 0px;
+    }
+    .card-section .card-row {
+        margin: 40px 0px 60px 0px;
+    }
+    .subscription-sec {
+        padding: 200px 0px 100px 0px;
+    }
+    .donation-history .table-wrapper .title {
+        max-width: 100%;
+        margin: 0px;
+    }
+
+  }
+  @media only screen and (max-width: 991px) {
+    .container {
+        padding: 0px 30px;
+    }
+    h1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    h2 {
+        font-size: 35px;
+        line-height: 42px;
+    }
+    header .navbar-wrap .nav-item.signup-btn,
+    header .navbar-wrap .nav-item.signin-btn{
+    display: block;
+    }
+    .navbar-toggler{
+        position: absolute;
+        right: 0px;
+        padding: 25px 0px 0px 0px;
+        z-index: 99;
+    }
+    .header-btn {
+        display: none !important;
+    }
+    header a.navbar-brand {
+        margin-top: 15px;
+    }
+    header .navbar-wrap {
+        max-width: 100%;
+    }
+    header .navbar-collapse{
+        width: 100%;
+        position: fixed;
+        top: 0px;
+        background-color: var(--black-color);
+        padding: 100px 50px 50px 50px;
+        left: 0px;
+        right: 0px;
+        z-index: 9;
+    }
+    header .navbar-collapse a.nav-link {
+        padding: 0px 0px 15px 0px !important;
+        font-size: 16px;
+    }
+    header .navbar-wrap .nav-item .nav-link:before{
+        display: none;
+    }
+    .banner-sec h1 span {
+        margin-top: 5px;
+    }
+    .banner-sec h1 span:after {
+        top: 5px;
+    }
+    .banner-sec h1 {
+        margin-bottom: 40px;
+    }
+    .banner-sec .img-wrap {
+        width: auto;
+        height: 90px;
+        margin-left: 0px;
+        margin-bottom: 25px;
+    }
+    .banner-sec p {
+        margin-bottom: 30px;
+    }
+    .banner-sec .btn:before{
+        display: none;
+    }
+    .banner-sec .banner-right {
+        height: 670px;
+        margin: 0px auto 0px auto;
+    }
+    .banner-sec .banner-right .img:nth-child(4) {
+        right: 60px;
+    }
+    .banner-sec .btn {
+        gap: 15px;
+        margin: 0px -30px 0px auto;
+        padding: 20px 40px;
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .mobile-sec h2, .step-sec h2 {
+        max-width: 100%;
+    }
+    .mobile-sec .contant.col:nth-child(2) {
+        margin-top: -50%;
+    }
+    .mobile-sec p {
+        margin-bottom: 20px;
+        max-width: 100%;
+    }
+    .mobile-sec .col .d-flex {
+        gap: 20px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(2) {
+        margin-top: 130px;
+        margin-left: 0px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(3) {
+        margin-top: 260px;
+        margin-left: 0px;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(4) {
+        margin-top: 390px;
+        margin-left: 0px;
+    }
+    .mobile-sec .mobile-screen {
+        padding: 0px;
+    }
+    .mobile-sec {
+        margin: 0px 0px 0px 0px;
+    }
+    .step-sec .accordion {
+        margin: 100px 0px 0px auto;
+    }
+    .step-sec .col h2 {
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .step-sec .accordion-item:last-child {
+        max-width: calc(100% - 40px);
+    }
+    .step-sec .accordion-item:nth-child(3) {
+        max-width: calc(100% - 100px);
+    }
+    .step-sec .accordion-item:nth-child(2) {
+        max-width: calc(100% - 160px);
+    }
+    .step-sec .accordion-item:nth-child(1) {
+        max-width: calc(100% - 220px);
+    }
+    .step-sec .accordion-item button {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .connect-sec {
+        padding: 100px 0px 0px 0px;
+    }
+    .connect-sec .col {
+        max-width: 100%;
+    }
+    .connect-sec .col:nth-child(2) {
+        max-width: 100%;
+    }
+    .connect-sec .row {
+        padding-bottom: 0px;
+    }
+    .signup-sec .row,
+    .signin-sec .row{
+        padding-bottom: 60px;
+    }
+    footer {
+        padding: 80px 0px 0px 0px;
+    }
+    .footer-column h6 {
+        margin-bottom: 25px;
+    }
+    .footer-column ul li a, .footer-column ul li,.copyright p {
+        line-height: 20px;
+        font-size: 16px;
+    }
+    .footer-column ul li {
+        margin-bottom: 15px;
+    }
+    footer .footer-logo a{
+        width: auto;
+        display: block;
+        height: 100px;
+    }
+    footer .footer-logo a img{
+        width: 100%;
+        height: 100%;
+    }
+    footer .footer-logo {
+        margin-bottom: 20px;
+    }
+    .connect-sec .wh-bg h3 {
+        font: normal normal 900 32px /38px Obadiah;
+    }
+    .connect-sec .col h4 {
+        font: normal normal bold 30px / 36px Obadiah;
+    }
+    .connect-sec form input {
+        font-size: 20px;
+    }
+    .marquee{
+        height: 500px;
+    }
+    .signup-sec .row:before,.payment-screen .row:before,
+    .plan-sec .row:before,.signin-sec .row:before,
+    .admin-page main:before,.edit-profile .row:before,
+    .donation-history .row:before{
+        display: none;
+    }
+    .signup-sec,.signin-sec {
+        padding: 150px 0px 0px 0px;
+    }
+    .signup-sec .right-img,
+    .signin-sec .right-img{
+        height: 600px;
+        top: 0px;
+    }
+    .signup-sec .row,
+    .signin-sec .row{
+        flex-wrap: wrap-reverse;
+        gap: 30px;
+    }
+    .signup-sec .col,.connect-sec .col:nth-child(2),
+    .signin-sec .col{
+        width: 100%;
+    }
+    .signup-sec .right-img,.signin-sec .right-img{
+        margin: 0px auto;
+    }
+    .plan-sec .col{
+        width: 100%;
+        flex: unset;
+    }
+    .plan-sec {
+        padding: 150px 0px 0px 0px;
+    }
+    .plan-sec p {
+        margin-bottom: 40px;
+    }
+    .plan-sec form button[type="submit"] {
+        margin-top: 0px;
+    }
+    .plan-sec .form-check-wrap .form-check {
+        margin-bottom: 25px;
+    }
+    .plan-sec .form-check span.price {
+        font-size: 24px;
+    }
+    .plan-list {
+        width: 100%;
+        padding: 45px 30px 45px 70px;
+        position: unset;
+        margin-right: 0px;
+        margin-top: 30px;
+        max-width: 100%;
+    }
+    .plan-list ul li {
+        font-size: 20px;
+        line-height: 24px;
+        padding-left: 15px;
+        margin-bottom: 20px;
+    }
+    .plan-list ul li:before {
+        top: 6px;
+    }
+    .money-send {
+        position: unset;
+        margin-right: -30px;
+        max-width: 300px;
+        margin: 0px 0px 0px auto;
+    }
+    footer .row:nth-child(1) {
+        padding-top: 80px;
+    }
+    .header-btn.profile {
+        display: block !important;
+        position: absolute;
+        right: 65px;
+        width: 35px;
+        bottom: 32px;
+    }
+    .header-btn.profile .btn{
+        padding: 0px;
+        width: auto;
+        font-size: 0px;
+    }
+    .header-btn.profile .btn img{
+        margin-right: 0px;
+        width: 35px;
+        height: 35px;
+    }
+    .header-btn.profile .btn:before,.header-btn.profile .btn:after{
+        display: none;
+    }
+    .purchase-summery .row:before{
+        display: none;
+    }
+    .purchase-summery {
+        padding: 160px 0px 0px 0px;
+    }
+    .purchase-summery .col{
+        width: 100%;
+        flex: unset;
+    }
+    .purchase-summery h1, .purchase-summery .plan-box {
+        margin-bottom: 30px;
+    }
+    .purchase-summery .row .col:nth-child(2) {
+        width: 100%;
+        max-width: 100%;
+        margin: 50px 0px 0px 0px;
+    }
+    .purchase-card {
+        margin: 0px 0px 30px 0px;
+        max-width: 100%;
+    }
+    .purchase-summery {
+        padding: 130px 0px 0px 0px;
+    }
+    .purchase-summery form label {
+        margin-bottom: 10px;
+    }
+    .purchase-summery .plan-left {
+        padding-right: 0px;
+    }
+    .payment-screen .col,
+    .edit-profile .col{
+        width: 100%;
+        flex: unset;
+    }
+    .payment-screen h1 br,
+    .edit-profile h1 br{
+        display: none;
+    }
+    .payment-screen h1,.edit-profile h1 {
+        margin-bottom: 50px;
+    }
+    .payment-screen .row .col:nth-child(2),
+    .edit-profile .row .col:nth-child(2) {
+        max-width: 100%;
+        width: 100%;
+    }
+    .payment-screen .plan-box{
+        margin-bottom: 70px;
+    }
+    .payment-screen,.edit-profile {
+        padding: 150px 0px 00px 0px;
+    }
+    .signin-sec form {
+        margin: 0px auto;
+    }
+    .donation-sec .row .col:nth-child(2),.donation-sec .row .col {
+        width: 100%;
+        max-width: 100%;
+    }
+    .donation-sec h1 br{
+        display: none;
+    }
+    .donation-sec h1 {
+        margin-bottom: 30px;
+    }
+    .donation-sec .row .col:nth-child(2){
+        margin-top: 70px;
+    }
+    .donation-sec {
+        padding: 150px 0px 00px 0px;
+    }
+    .donation-sec .plan-btn a {
+        margin-left: -20px;
+    }
+    .profile-sec {
+        padding: 180px 0px 0px 0px;
+    }
+    .profile-sec .profile-row {
+        width: calc(100% + 30px);
+        padding: 16px 20px 16px 20px;
+        margin: 0px -30px 0px 0px;
+    }
+    .profile-sec h1 {
+        margin-top: 40px;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .profile-sec h1  br{
+        display: none;
+    }
+    .profile-wrap {
+        justify-content: center;
+    }
+    .edit-profile .profile-left {
+        padding: 10px 0px 70px 0px;
+    }
+    .edit-img-wrap {
+        margin-left: -30px;
+    }
+    .edit-img-wrap .edit-img {
+        justify-content: center;
+        padding: 30px 0px 30px 0px;
+    }
+    .subscription-sec .money-send a {
+        min-width: 240px !important;
+        margin-right: -30px;
+        gap: 20px;
+        font-size: 18px;
+    }
+    .subscription-sec .current-plan {
+        width: 100%;
+    }
+    .subscription-sec .current-plan a.btn {
+        max-width: fit-content;
+    }
+    .subscription-sec .current-plan p:last-child{
+        text-align: left;
+    }
+    .subscription-sec .row:nth-child(2) .col:nth-child(2) {
+        width: 100%;
+        margin-top: 40px;
+    }
+    .table-wrapper .title {
+        margin-bottom: 30px;
+        max-width: 100%;
+    }
+    .plan-history table {
+        max-width: 100%;
+    }
+    .dataTables_wrapper .dataTables_info {
+        max-width: 250px;
+        padding-right: 50px;
+        margin: 30px 0px 0px -30px;
+        text-align: left;
+    }
+    .dataTables_wrapper .dataTables_paginate {
+        margin-left: -160px;
+        margin-top: 59px;
+        gap: 20px;
+    }
+    .subscription-sec {
+        padding: 200px 0px 60px 0px;
+    }
+    .subscription-sec .card-row {
+        margin-right: -30px;
+    }
+    .subscription-sec .plan-left {
+        margin-bottom: 50px;
+    }
+    .plan-history {
+        padding-bottom: 0px;
+    }
+    .signup-sec .col:nth-child(2), .signin-sec .col:nth-child(2){
+        width: 100%;
+    }
+    .signin-sec {
+        padding: 150px 0px 0px 0px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .container {
+        padding: 0px 20px;
+    }
+    h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    header .navbar-collapse {
+        padding: 100px 20px 30px 20px;
+    }
+    .banner-sec .banner-right .img:nth-child(1) {
+        top: 0px;
+    }
+    .banner-sec .banner-right .img:nth-child(4) {
+        right: 0px;
+    }
+    .banner-sec .banner-right .img:nth-child(3) {
+        bottom: -30px;
+    }
+    .banner-sec .btn {
+        max-width: 250px;
+    }
+    .banner-sec .btn:after {
+        width: 50px;
+    }
+    .mobile-sec .contant.col:nth-child(2),
+    .mobile-sec .contant.col:nth-child(1) {
+        margin-top: 0px;
+        flex-basis: 100%;
+    }
+    .mobile-sec .row{
+        align-content: end;
+        flex-wrap: wrap-reverse;
+    }
+    .mobile-screen{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .mobile-sec .mobile-screen .img:nth-child(2),.mobile-sec .mobile-screen .img:nth-child(3),
+    .mobile-sec .mobile-screen .img:nth-child(4) {
+        margin-top: 0px;
+    }
+    .banner-sec .banner-right {
+        height: auto;
+        margin: 50px auto 60px auto;
+    }
+    .mobile-sec {
+        margin: 60px 0px 0px 0px;
+        padding: 20px 0px 0px 0px;
+    }
+    .mobile-sec .container {
+        position: relative;
+        margin: 40px 0px 60px 0px;
+    }
+    .mobile-sec .mobile-screen .img {
+        width: 100%;
+        height: auto;
+    }
+    .step-sec .accordion-item .num {
+        left: -30px;
+        top: -25px;
+        width: 30px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .step-sec .accordion-item button {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .step-sec .accordion-item .accordion-button h6 {
+        padding: 5px 15px;
+        margin: 0px 15px;
+    }
+    .step-sec .accordion-item:last-child {
+        max-width: calc(100% - 30px);
+    }
+    .step-sec .accordion-item:nth-child(3) {
+        max-width: calc(100% - 30px);
+    }
+    .step-sec .accordion-item:nth-child(2) {
+        max-width: calc(100% - 30px);
+    }
+    .step-sec .accordion-item:nth-child(1) {
+        max-width: calc(100% - 30px);
+    }
+    .step-sec .accordion-item {
+        padding: 15px 0px 15px 30px;
+        min-height: auto;
+    }
+    .step-sec .accordion {
+        margin: 80px 0px 0px auto;
+    }
+    .connect-sec {
+        padding: 60px 0px 0px 0px;
+    }
+    .connect-sec form .input-group {
+        margin: 0px 0px 30px 0px;
+        width: 100%;
+    }
+    .connect-sec form .input-group:nth-child(3) {
+        margin-bottom: 30px;
+    }
+    .connect-sec form textarea {
+        padding: 20px 20px;
+        border-radius: 20px;
+        min-height: 150px;
+        margin-bottom: 30px;
+    }
+    .connect-sec .col .wh-bg {
+        padding: 35px 30px;
+        margin-bottom: 50px;
+        border-radius: 50px;
+    }
+    footer {
+        padding: 60px 0px 0px 0px;
+    }
+    footer .row:nth-child(1) {
+        padding-bottom: 30px;
+        padding-top: 60px;
+    }
+    footer .col:nth-child(1) {
+        width: 100%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    footer .col:nth-child(1) .footer-column ul li {
+        max-width: 100%;
+    }
+    footer .col:nth-child(3) {
+        width: 100%;
+    }
+    .footer-column{
+        text-align: center;
+    }
+    footer .footer-logo a img {
+        object-position: center;
+    }
+    footer .col:nth-child(2){
+        margin-bottom: 25px;
+    }
+    footer .col:nth-child(3) p {
+        text-align: center;
+    }
+    .copyright{
+        flex-wrap: wrap-reverse;
+        gap: 20px;
+        justify-content: center;
+    }
+    .copyright p{
+        width: 100%;
+        text-align: center;
+    }
+    footer ul.social-icon {
+        gap: 20px;
+    }
+    .banner-sec .banner-right .img:nth-child(2) {
+        left: 40px;
+    }
+    .banner-sec p {
+        max-width: 100%;
+    }
+    .connect-sec .col h4 img {
+        margin-right: 20px;
+        top: -7px;
+        width: 80px;
+    }
+    .banner-sec .banner-right .img:nth-child(1),.banner-sec .banner-right .img:nth-child(2),.banner-sec .banner-right .img:nth-child(3),
+    .banner-sec .banner-right .img:nth-child(4) {
+        top: 0px;
+        position: relative;
+        left: 0px;
+        bottom: 0px;
+        transform: none;
+    }
+    .banner-sec .banner-right {
+        flex-wrap: wrap;
+        padding: 0px 0px;
+        gap: 30px;
+    }
+    .banner-sec .banner-right img,.banner-sec .banner-right .img:nth-child(3) img,
+    .banner-sec .banner-right .img:nth-child(4) img  {
+        width: 100%;
+        height: auto;
+    }
+    .banner-sec .banner-right .img:nth-child(2),.banner-sec .banner-right .img:nth-child(3){
+        display: none;
+    }
+    .banner-sec .row .col {
+        padding: 0px 0px;
+        flex: unset;
+    }
+    .banner-sec h1 span:after {
+        top: 12px;
+        right: -63px;
+        width: 30px;
+        height: 30px;
+    }
+    .mobile-sec .col .d-flex {
+        gap: 15px;
+        flex-wrap: wrap;
+    }
+    .step-sec .btn.border-btn {
+        text-align: start;
+        max-width: fit-content;
+        margin-left: -20px;
+        width: 100%;
+        padding: 18px 40px 18px 20px;
+    }
+    .step-sec .accordion-item {
+        margin-bottom: 50px !important;
+    }
+    .connect-sec form {
+        padding: 40px 20px;
+    }
+    footer ul.social-icon a {
+        height: 20px;
+    }
+    .connect-sec form label {
+        font-size: 16px;
+        line-height: 22px;
+        min-width: 75px;
+    }
+    .connect-sec form input {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .connect-sec form textarea {
+        padding: 20px 15px;
+        min-height: 125px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .mobile-screen{
+        display: flex;
+      }
+      .hero-marquee{
+        display: none;
+      }
+      .signup-sec,.signin-sec {
+        padding: 150px 0px 0px 0px;
+    }
+    .signup-sec .right-img,
+    .signin-sec .right-img{
+        height: 400px;
+    }
+    .connect-sec form label {
+        min-width: 100%;
+        width: 100%;
+    }
+    .plan-sec h1 span.br-txt:after {
+        bottom: -4px;
+    }
+    .plan-sec h1 {
+        margin-bottom: 10px;
+    }
+    .plan-sec p {
+        margin-bottom: 30px;
+    }
+    .plan-sec .form-check span.txt {
+        font: normal normal bold 16px / 22px Obadiah;
+        min-width: 95px;
+        padding: 9px 20px;
+        margin-right: 15px;
+        max-width: fit-content;
+    }
+    .plan-sec .form-check span.price {
+        font-size: 16px;
+    }
+    .plan-sec .form-check span.price strong{
+        font-size: 12px;
+    }
+    .plan-sec .form-check-wrap .form-check {
+        padding: 9px 12px 9px 12px;
+    }
+    .plan-sec .form-check label::before {
+        width: 22px;
+        height: 22px;
+    }
+    .plan-sec .form-check label::after {
+        right: 6px;
+        width: 10px;
+        height: 10px;
+    }
+    .money-send a {
+        min-width: 100%;
+    }
+    .money-send a img {
+        width: 25px;
+        height: 25px;
+    }
+    .plan-list {
+        padding: 40px 20px 40px 50px;
+    }
+    .plan-list ul li {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .header-btn.profile {
+        right: 55px;
+    }
+    .purchase-card {
+        padding: 23px 30px 40px 30px;
+    }
+    .purchase-card p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .purchase-card p span {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .purchase-card p {
+        margin-bottom: 10px;
+    }
+    .purchase-card p:nth-child(4) {
+        padding-bottom: 25px;
+        margin-bottom: 25px;
+    }
+    .purchase-card .total h5 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .purchase-card .total h5 span {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .purchase-card h2 {
+        padding-bottom: 18px;
+        margin-bottom: 25px;
+        font-size: 24px;
+        line-height: 26px;
+    }
+    .payment-screen form,
+    .edit-profile form {
+        padding: 40px 20px;
+        border-radius: 50px;
+    }
+    .signup-sec form label, .payment-screen form label,
+    .signin-sec form label,.edit-profile form label{
+        min-width: 100%;
+        width: 100%;
+        margin-bottom: 0px;
+    }
+    .payment-screen h1,.edit-profile h1{
+        margin-bottom: 30px;
+    }
+    .plan-sec h1 span.br-txt:after, .purchase-summery h1 span.br-txt:after, .payment-screen h1 span.br-txt:after,
+    .edit-profile h1 span.br-txt:after{
+        bottom: -3px;
+    }
+    .payment-screen .plan-box {
+        margin-bottom: 60px;
+    }
+    .card-section .card-row {
+        margin: 40px 0px 40px 0px;
+    }
+    .card-section .add-new {
+        gap: 0px 30px;
+    }
+    .master-card, .visa-card {
+        min-width: 315px;
+        height: 210px;
+    }
+    .master-card .mastercard-chip, .visa-card .card-chip {
+        position: absolute;
+        top: 30px;
+        left: 20px;
+        width: 35px;
+    }
+    .master-card .name, .visa-card .name {
+        font: normal normal bold 18px / 32px Obadiah;
+        bottom: 25px;
+        left: 20px;
+        width: calc(100% - 122px);
+    }
+    .master-card .mastercard-icon {
+        width: 40px;
+        right: 20px;
+    }
+    .master-card:after {
+        width: 70px;
+    }
+    .master-card .number, .visa-card .number {
+        font: normal normal bold 16px / 33px Obadiah;
+        top: 70px;
+        left: 20px;
+    }
+    .visa-card-icon {
+        bottom: 35px;
+        width: 50px;
+    }
+    .payment-screen form a.card-btn {
+        margin-left: -20px;
+    }
+    .submit-popup .modal-body .d-flex {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .modal-body, .modal-footer {
+        padding: 30px 30px 30px 30px;
+        justify-content: center;
+        gap: 20px;
+    }
+    .modal .modal-content {
+        box-shadow: 15px 15px 0px var(--red-color);
+        margin: 0px auto;
+        width: calc(100% - 40px);
+    }
+    .modal-body .img {
+        min-width: auto;
+        height: 100px;
+    }
+    .modal-title{
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .modal-body .content p {
+        font-size: 18px;
+        line-height: 23px;
+        max-width: 100%;
+    }
+    .modal-body .content{
+        text-align: center;
+    }
+    .modal-footer h4 {
+        font-size: 28px;
+        line-height: 34px;
+        text-align: center;
+        margin: 0px 0px;
+    }
+    .modal-footer button{
+        padding: 17px 20px;
+        width: max-content;
+    }
+    .signin-sec form p.text-center::before {
+        left: -15px;
+        width: 25px;
+    }
+    .signin-sec form p.text-center::after {
+        right: -15px;
+        width: 25px;
+    }
+    form ul.social-icon {
+        gap: 15px;
+    }
+    form ul.social-icon li a span img {
+        width: 15px;
+    }
+    form ul.social-icon li a span {
+        width: 60px;
+        height: 40px;
+    }
+    .signin-sec form .input-group:nth-child(2) {
+        margin-bottom: 30px;
+    }
+    .plan-sec .form-check-wrap .invalid-feedback {
+        padding: 15px 0px 0px 0px;
+        gap: 10px;
+    }
+    .plan-sec .form-check-wrap .form-check {
+        padding: 9px 0px 0px 0px;
+        margin-bottom: 15px;
+    }
+    .range-sec {
+        padding: 40px 0px;
+        border-radius: 50px;
+    }
+    .range-sec .slidecontainer {
+        width: calc(100% - 40px);
+    }
+    .imp-note {
+        padding: 24px 20px;
+    }
+    .range-sec button {
+        margin: 0px 10px;
+        width: calc(100% - 20px);
+    }
+    .profile-sec .profile-row {
+        width: calc(100% + 20px);
+        margin: 0px -20px 0px 0px;
+        max-height: fit-content;
+    }
+    .profile-row ul li:after{
+        display: none;
+    }
+    .profile-row ul li {
+        padding: 0px 0px 10px 0px;
+        margin: 0px 0px 0px 0px;
+        width: 100%;
+    }
+    .profile-row ul li:last-child {
+        padding-bottom: 0px;
+    }
+    .profile-sec {
+        padding: 150px 0px 0px 0px;
+    }
+    .payment-screen,.edit-profile {
+        padding: 130px 0px 00px 0px;
+    }
+    .edit-profile .profile-left h1 {
+        margin-bottom: 30px;
+    }
+    button.delete-button {
+        margin: 20px 0px 0px 0px;
+    }
+    .edit-img-wrap {
+        margin-left: -20px;
+    }
+    .edit-img-wrap .edit-img .img {
+        width: 150px;
+        height: 150px;
+    }
+    .edit-profile .profile-left {
+        padding: 20px 0px 60px 0px;
+    }
+    .edit-img-wrap .edit-icon {
+        left: 6px;
+        width: max-content;
+    }
+    .subscription-sec .plan-left {
+        flex-wrap: wrap;
+        gap: 40px;
+        margin-bottom: 40px;
+    }
+    .table-responsive {
+        overflow-x: auto;
+    }
+    .subscription-sec {
+        padding: 130px 0px 40px 0px;
+    }
+    .subscription-sec h2{
+        font-size: 30px;
+    }
+    .subscription-sec .current-plan p {
+        margin-bottom: 20px;
+    }
+    .subscription-sec .card-row {
+        gap: 20px;
+        margin-right: -20px;
+    }
+    table thead tr th {
+        padding: 20px 15px !important;
+    }
+    table tbody tr td {
+        padding: 9px 15px !important;
+    }
+    table.dataTable thead td{
+        font-size: 16px;
+    }
+    table.dataTable tbody td,table tbody tr td:nth-child(1){
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .dataTables_wrapper .dataTables_info {
+        padding: 15px 30px 15px 0px;
+        margin: 30px 0px 0px 0px;
+        max-width: 180px;
+    }
+    .dataTables_wrapper .dataTables_paginate {
+        margin-top: -35px;
+        gap: 15px;
+        margin-left: 60px;
+    }
+    table.dataTable.nowrap th {
+        font-size: 16px;
+    }
+    .donation-history table tbody tr td {
+        padding: 10px 15px !important;
+    }
+    .subscription-sec, .donation-history {
+        padding-top: 140px;
+    }
+    .signup-sec.verify .box {
+        padding: 40px 20px;
+        border-radius: 50px;
+    }
+    .verify .box form input[type="text"] {
+        width: 20px;
+        padding-bottom: 15px;
+    }
+    .verify .box form .d-flex {
+        gap: 12px;
+        margin-bottom: 30px;
+    }
+    .verify .box p {
+        margin-bottom: 20px;
+    }
+    .resend-link {
+        margin: 25px 0px 0px 0px;
+    }
+   
+  }
+  @media only screen and (max-width: 576px) {
+    
+    .card-section .money-send {
+        max-width: 130px;
+    }
+    .card-section .card-row{
+        gap: 20px;
+    }
+    .master-card, .visa-card {
+        min-width: 280px;
+        height: 190px;
+    }
+    .visa-card-icon {
+        width: 40px;
+    }
+    .payment-screen form .btn-group {
+        flex-wrap: wrap;
+    }
+    .payment-screen form a.card-btn {
+        min-width: 180px;
+    }
+    .modal-footer button {
+        width: 100%;
+    }
+  }
+  @media only screen and (max-width: 478px) {
+    .signup-sec .right-img,
+    .signin-sec .right-img {
+        height: auto;
+    }
+    .signup-sec form label,
+    .signin-sec form label{
+        width: 100%;
+    }
+    .card-section .card-row{
+        flex-wrap: wrap;
+    }
+    .master-card, .visa-card {
+        min-width: 100%;
+    }
+  }
+  @media only screen and (max-width: 374px) {
+    .purchase-card p:nth-child(4) {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .purchase-card {
+        padding: 23px 30px 30px 30px;
+    }
+  }
